@@ -8,8 +8,6 @@ var options = {
   provider: 'google',
   httpAdapter: 'https',
   apiKey: process.env.GEOCODER_API_KEY,
-  mapsApi: process.env.MAPS_API_KEY,
-  placeApi: process.env.PLACE_API_KEY,
   formatter: null
 };
  
